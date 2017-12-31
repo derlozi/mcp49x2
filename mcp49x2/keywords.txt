@@ -1,0 +1,5 @@
+mcp49x2	KEYWORD1
+writeDAC	KEYWORD2
+shutdownCh	KEYWORD2
+setBuf	KEYWORD2
+setGain	KEYWORD2	
