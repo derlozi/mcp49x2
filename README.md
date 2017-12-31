@@ -16,7 +16,7 @@ LDAC -> any I/O Pin
 
 
 
-#Functions:
+Functions:
 
 mcp49x2(int CS, int LDAC);
 
