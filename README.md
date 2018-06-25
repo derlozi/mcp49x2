@@ -13,7 +13,7 @@ SCK -> SCK
 
 SDI -> MOSI
 
-SHDN -> Gnd
+SHDN -> 5V
 
 LDAC -> any I/O Pin
 
