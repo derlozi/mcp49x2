@@ -29,7 +29,7 @@ LDAC -> any I/O Pin
 <h4>writeDAC(unsigned int val, int ch);</h4>
 
   Writes the unsigned int val to the Channel, where 0 is Channel A and 1 is Channel B.
-  val can be between 0 and 4096, independantly form wether you use the 8-, 10 or 12 bit DAC.
+  val can be between 0 and 4096, independently form whether you use the 8-, 10 or 12 bit DAC.
   
 <h4>shutdownCh(int ch);</h4>
   
@@ -37,7 +37,7 @@ LDAC -> any I/O Pin
   
 <h4>setBuf(int buf);</h4>
   
-  Whether the outputs should be buffered or not, only mess wtih this if you know what you are doing, the preset-Value will be good for nearly all applications. Can be 1 or 0.
+  Whether the outputs should be buffered or not, only mess with this if you know what you are doing, the preset Value will be good for nearly all applications. Can be 1 or 0.
  
 <h4>setGain(int gain);</h4>
 
